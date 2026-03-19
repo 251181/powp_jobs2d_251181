@@ -1,5 +1,5 @@
 package edu.kis.powp.jobs2d.command;
 
-interface DriverCommand {
+public interface DriverCommand {
     void execute();
 }
